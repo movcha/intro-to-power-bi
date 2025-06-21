@@ -7,3 +7,4 @@ Power BI: Imported CSV and Excel into Power BI Desktop
 Python: Wrote a script for basic data cleaning with pandas
 SQL: Practiced SELECT and WHERE clauses
 SQL: Used GROUP BY and aggregate functions
+SQL: Joined multiple tables using INNER JOIN
