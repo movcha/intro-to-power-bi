@@ -55,6 +55,6 @@ Each dashboard demonstrates key Power BI techniques learned throughout the cours
 
 ## 📅 Completed
 
-**June 30, 2025**
+**January 26, 2024**
 
 👨‍💻 Author: [Oleg Movchaniuk](https://github.com/movcha)
