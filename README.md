@@ -9,20 +9,20 @@ The course focuses on loading and transforming data, building dashboards, creati
 ## 🗂️ Repository Structure
 
 <pre>
-📁 intro-to-power-bi
-├── 📂 datasets
-│   ├── contoso/
-│   └── wwvi/
-├── 📂 exercises
-│   └── step-by-step .pbix files
-├── 📂 final_dashboards
-│   ├── CH1_CH2/
-│   └── CH3_CH4/
-├── 📂 images
-│   └── dashboard previews
-├── 📂 certificates
-│   └── Course certificate (PDF)
-└── 📄 README.md
+📁 intro-to-power-bi/
+ ├── 📁 datasets/
+ │    ├── contoso/
+ │    └── wwi/
+ ├── 📁 exercises/
+ │    └── step-by-step .pbix files
+ ├── 📁 final_dashboards/
+ │    ├── CH1_CH2/
+ │    └── CH3_CH4/
+ ├── 📁 images/
+ │    └── dashboard previews
+ ├── 📁 certificates/
+ │    └── Course certificate (PDF)
+ └── 📄 README.md
 </pre>
 ---
 
