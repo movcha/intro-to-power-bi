@@ -8,6 +8,7 @@ The course focuses on loading and transforming data, building dashboards, creati
 
 ## 🗂️ Repository Structure
 
+<pre>
 📁 intro-to-power-bi
 ├── 📂 datasets
 │   ├── contoso/
@@ -22,7 +23,7 @@ The course focuses on loading and transforming data, building dashboards, creati
 ├── 📂 certificates
 │   └── Course certificate (PDF)
 └── 📄 README.md
-
+</pre>
 ---
 
 ## 💡 Skills Practiced
